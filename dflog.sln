@@ -10,6 +10,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dflogtest", "dflogtest\dflo
 		{A59AF248-4208-4F77-BB82-A49A78C30BCD} = {A59AF248-4208-4F77-BB82-A49A78C30BCD}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp0x", "cpp0x\cpp0x.vcxproj", "{35B46DD4-47BF-429A-9644-A30C0964A0D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -34,6 +36,14 @@ Global
 		{64BBC577-E795-41DA-B786-F8203F5561D2}.Release|x64.Build.0 = Release|x64
 		{64BBC577-E795-41DA-B786-F8203F5561D2}.Release|x86.ActiveCfg = Release|Win32
 		{64BBC577-E795-41DA-B786-F8203F5561D2}.Release|x86.Build.0 = Release|Win32
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Debug|x64.ActiveCfg = Debug|x64
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Debug|x64.Build.0 = Debug|x64
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Debug|x86.Build.0 = Debug|Win32
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Release|x64.ActiveCfg = Release|x64
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Release|x64.Build.0 = Release|x64
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Release|x86.ActiveCfg = Release|Win32
+		{35B46DD4-47BF-429A-9644-A30C0964A0D9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

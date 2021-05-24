@@ -35,12 +35,12 @@
 
 #define  MAX_PATH_NUM  1024
 
+namespace util {
 #ifdef _WIN32
 #ifndef H_GETTIMEOFDAY
 #define H_GETTIMEOFDAY
- //@refer evpp/gettimeofday.h
+	//@refer evpp/gettimeofday.h
 
-namespace util {
 	inline int gettimeofday(struct timeval* tp, void* tzp) {
 		uint64_t  intervals;
 		FILETIME  ft;

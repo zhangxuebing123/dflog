@@ -3,3 +3,9 @@
 ################################################################################
 
 *.zip
+/x64/Debug
+/cpp0x
+/.vs
+/dflogtest/x64/Debug
+/dflogtest/Log
+/dflogtest/~AutoRecover.dflogtest.vcxproj
